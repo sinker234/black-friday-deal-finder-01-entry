@@ -1,6 +1,6 @@
 // DealHound's hand-in program (Node 22, standard library only): it copies
 // app/ and screenshots/ from beside this file to /output and writes
-// /output/dossier.json, the summary the judge reads (the screenshots, the
+// /output/dossier.json, the summary the platform reads (the screenshots, the
 // first load's files and bytes, and the site's source), with the vendored
 // make.fun library. Leave vendor/makefun-frontend.ts as it is: the scorer
 // requires dossier.json to be byte for byte what its own copy writes.
